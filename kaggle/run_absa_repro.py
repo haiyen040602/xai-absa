@@ -224,6 +224,20 @@ def make_loader(dataset: Dataset, batch_size: int, shuffle: bool) -> DataLoader:
     return DataLoader(dataset, batch_size=batch_size, shuffle=shuffle)
 
 
+def compute_class_weights(examples: Sequence[Example], num_classes: int = 3) -> torch.Tensor:
+    counts = Counter(ex.label for ex in examples)
+    total = sum(counts.values())
+    weights = []
+    for cls in range(num_classes):
+        cls_count = counts.get(cls, 0)
+        if cls_count <= 0:
+            weights.append(1.0)
+        else:
+            # Inverse-frequency style weighting.
+            weights.append(float(total) / float(num_classes * cls_count))
+    return torch.tensor(weights, dtype=torch.float)
+
+
 def compute_metrics(labels: List[int], preds: List[int]) -> Dict[str, float]:
     accuracy = accuracy_score(labels, preds)
     precision, recall, f1, _ = precision_recall_fscore_support(
@@ -341,7 +355,7 @@ def baseline_collate(batch):
     return padded, labels_tensor, lengths
 
 
-def train_epoch_transformer(model, loader, optimizer, device):
+def train_epoch_transformer(model, loader, optimizer, device, criterion=None):
     model.train()
     total_loss = 0.0
     total_correct = 0
@@ -350,8 +364,13 @@ def train_epoch_transformer(model, loader, optimizer, device):
     for batch in loader:
         batch = {k: v.to(device) for k, v in batch.items()}
         optimizer.zero_grad()
-        outputs = model(**batch)
-        loss = outputs.loss
+        labels = batch["labels"]
+        model_inputs = {k: v for k, v in batch.items() if k != "labels"}
+        outputs = model(**model_inputs)
+        if criterion is None:
+            loss = outputs.loss
+        else:
+            loss = criterion(outputs.logits, labels)
         logits = outputs.logits
 
         loss.backward()
@@ -359,15 +378,15 @@ def train_epoch_transformer(model, loader, optimizer, device):
 
         total_loss += float(loss.item())
         preds = torch.argmax(logits, dim=1)
-        total_correct += int((preds == batch["labels"]).sum().item())
-        total_seen += int(batch["labels"].size(0))
+        total_correct += int((preds == labels).sum().item())
+        total_seen += int(labels.size(0))
 
     avg_loss = total_loss / max(len(loader), 1)
     avg_acc = total_correct / max(total_seen, 1)
     return avg_loss, avg_acc
 
 
-def evaluate_transformer(model, loader, device):
+def evaluate_transformer(model, loader, device, criterion=None):
     model.eval()
     total_loss = 0.0
     all_labels: List[int] = []
@@ -376,10 +395,16 @@ def evaluate_transformer(model, loader, device):
     with torch.no_grad():
         for batch in loader:
             batch = {k: v.to(device) for k, v in batch.items()}
-            outputs = model(**batch)
-            total_loss += float(outputs.loss.item())
+            labels = batch["labels"]
+            model_inputs = {k: v for k, v in batch.items() if k != "labels"}
+            outputs = model(**model_inputs)
+            if criterion is None:
+                loss_val = outputs.loss
+            else:
+                loss_val = criterion(outputs.logits, labels)
+            total_loss += float(loss_val.item())
             preds = torch.argmax(outputs.logits, dim=1)
-            all_labels.extend(batch["labels"].cpu().tolist())
+            all_labels.extend(labels.cpu().tolist())
             all_preds.extend(preds.cpu().tolist())
 
     metrics = compute_metrics(all_labels, all_preds)
@@ -461,13 +486,27 @@ def run_transformer(args, split: SplitExamples, device, root_output_dir: str) ->
     val_loader = make_loader(val_ds, args.batch_size, False)
     test_loader = make_loader(test_ds, args.batch_size, False)
 
+    class_weights = compute_class_weights(split.train, num_classes=3).to(device)
+    criterion = nn.CrossEntropyLoss(weight=class_weights)
+    train_label_counts = Counter(ex.label for ex in split.train)
+    print(
+        "[transformer] train label counts:",
+        {INV_LABEL_MAP.get(k, k): v for k, v in sorted(train_label_counts.items())},
+    )
+    print(
+        "[transformer] class weights:",
+        {INV_LABEL_MAP.get(i, i): float(w) for i, w in enumerate(class_weights.detach().cpu().tolist())},
+    )
+
     optimizer = AdamW(model.parameters(), lr=args.learning_rate)
     best_val_f1 = -1.0
     history = []
 
     for epoch in range(1, args.epochs + 1):
-        train_loss, train_acc = train_epoch_transformer(model, train_loader, optimizer, device)
-        val_metrics = evaluate_transformer(model, val_loader, device)
+        train_loss, train_acc = train_epoch_transformer(
+            model, train_loader, optimizer, device, criterion=criterion
+        )
+        val_metrics = evaluate_transformer(model, val_loader, device, criterion=criterion)
 
         row = {
             "epoch": epoch,
@@ -493,7 +532,7 @@ def run_transformer(args, split: SplitExamples, device, root_output_dir: str) ->
 
     # Evaluate on the best checkpoint saved by validation macro F1.
     model = AutoModelForSequenceClassification.from_pretrained(exp_dir).to(device)
-    test_metrics = evaluate_transformer(model, test_loader, device)
+    test_metrics = evaluate_transformer(model, test_loader, device, criterion=criterion)
     save_predictions(
         os.path.join(exp_dir, "test_predictions.csv"), test_metrics["labels"], test_metrics["preds"]
     )
