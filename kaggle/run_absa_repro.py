@@ -491,6 +491,8 @@ def run_transformer(args, split: SplitExamples, device, root_output_dir: str) ->
             model.save_pretrained(exp_dir)
             tokenizer.save_pretrained(exp_dir)
 
+    # Evaluate on the best checkpoint saved by validation macro F1.
+    model = AutoModelForSequenceClassification.from_pretrained(exp_dir).to(device)
     test_metrics = evaluate_transformer(model, test_loader, device)
     save_predictions(
         os.path.join(exp_dir, "test_predictions.csv"), test_metrics["labels"], test_metrics["preds"]
