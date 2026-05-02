@@ -1,0 +1,642 @@
+{"text": "2 words -filter coffee :-)", "labels": [{"aspect": "coffee", "polarity": "negative"}]}
+{"text": "Not worth the price & hype", "labels": [{"aspect": "hype", "polarity": "negative"}]}
+{"text": "You have to try carrot juice", "labels": [{"aspect": "carrot juice", "polarity": "positive"}]}
+{"text": "The small pizza is tiny and up the road you can get a 3 course meal for 15 soles!", "labels": [{"aspect": "small pizza", "polarity": "negative"}]}
+{"text": "The best bar in Hikkaduwa.", "labels": [{"aspect": "bar", "polarity": "positive"}]}
+{"text": "Nice authentic tradition South Indian food..", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Nice ambience and the lighting is good", "labels": [{"aspect": "ambience", "polarity": "positive"}, {"aspect": "lighting", "polarity": "positive"}]}
+{"text": "#36 with mango juice!", "labels": [{"aspect": "mango juice", "polarity": "positive"}]}
+{"text": "Best food in town!", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Their steaks are awesome!!!", "labels": [{"aspect": "steaks", "polarity": "positive"}]}
+{"text": "Pasta tasteless.", "labels": [{"aspect": "Pasta", "polarity": "negative"}]}
+{"text": "Mushroom watery and lemon tea need to ask for extra lemon.", "labels": [{"aspect": "Mushroom", "polarity": "negative"}, {"aspect": "lemon tea", "polarity": "negative"}]}
+{"text": "Great South Indian vegetarian fare!", "labels": [{"aspect": "vegetarian fare", "polarity": "positive"}]}
+{"text": "Best soy coffee!", "labels": [{"aspect": "soy coffee", "polarity": "positive"}]}
+{"text": "Surprisingly good bourbon list.", "labels": [{"aspect": "bourbon list", "polarity": "positive"}]}
+{"text": "No fries!", "labels": [{"aspect": "fries", "polarity": "negative"}]}
+{"text": "Burgers with extra pickles, onion rings and the chocolate shake are the best ever!!!! :) A must try if in the area.", "labels": [{"aspect": "Burgers", "polarity": "positive"}, {"aspect": "onion rings", "polarity": "positive"}, {"aspect": "chocolate shake", "polarity": "positive"}]}
+{"text": "Great spiced apple drink.", "labels": [{"aspect": "spiced apple drink", "polarity": "positive"}]}
+{"text": "Try ice vanilla latte and chic o cheese", "labels": [{"aspect": "ice vanilla latte", "polarity": "positive"}, {"aspect": "chic o cheese", "polarity": "positive"}]}
+{"text": "A good cafe to rest in after a tiring walk in Mecca Mall", "labels": [{"aspect": "cafe", "polarity": "positive"}]}
+{"text": "Great food.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Excellent service.", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "One Double cheeseBK n Nice outdoor atmosphere ^^ #HomeyBali", "labels": [{"aspect": "atmosphere", "polarity": "positive"}, {"aspect": "Double cheeseBK", "polarity": "positive"}]}
+{"text": "Get the home made lime/mint lemonade!", "labels": [{"aspect": "lime/mint lemonade", "polarity": "positive"}]}
+{"text": "Excellent sushi and old fashions.", "labels": [{"aspect": "sushi", "polarity": "positive"}, {"aspect": "fashions", "polarity": "positive"}]}
+{"text": "Music is way too loud for dining though!", "labels": [{"aspect": "Music", "polarity": "negative"}]}
+{"text": "Best wings, rolling to a spot near you.", "labels": [{"aspect": "wings", "polarity": "positive"}]}
+{"text": "If you're a lover of all things pumpkin, try the pumpkin bagel with the pumpkin cream cheese when they're in season!", "labels": [{"aspect": "pumpkin bagel with the pumpkin cream cheese", "polarity": "positive"}]}
+{"text": "Chips and wam salsa.", "labels": [{"aspect": "Chips", "polarity": "positive"}, {"aspect": "wam salsa", "polarity": "positive"}]}
+{"text": "Try the calamari Taco n add some hot sauce..delicious!!", "labels": [{"aspect": "calamari Taco", "polarity": "positive"}]}
+{"text": "The chocolate babka is amazing- buttery, plenty of chocolate & stays moist (even when left open on a counter)!!", "labels": [{"aspect": "chocolate babka", "polarity": "positive"}]}
+{"text": "Beers all over the world, cool place", "labels": [{"aspect": "Beers", "polarity": "positive"}, {"aspect": "place", "polarity": "positive"}]}
+{"text": "Nice place.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Good coffee not bad prices.", "labels": [{"aspect": "coffee", "polarity": "positive"}]}
+{"text": "But the menu could do with a redesign.", "labels": [{"aspect": "menu", "polarity": "negative"}]}
+{"text": "Good food.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Parking can be a real pain!", "labels": [{"aspect": "Parking", "polarity": "negative"}]}
+{"text": "The red beans and rice are DELICIOUS.. better than Pat O'Briens.", "labels": [{"aspect": "red beans", "polarity": "positive"}, {"aspect": "rice", "polarity": "positive"}]}
+{"text": "Must try shrimp avoid salad and Nutella Tiramissu.", "labels": [{"aspect": "shrimp", "polarity": "positive"}, {"aspect": "salad", "polarity": "negative"}, {"aspect": "Nutella Tiramissu", "polarity": "negative"}]}
+{"text": "This is Mexican food done right.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Waitress wears flip flop.", "labels": [{"aspect": "Waitress", "polarity": "negative"}]}
+{"text": "Food was good though.", "labels": [{"aspect": "Food", "polarity": "positive"}]}
+{"text": "Such a beautiful place", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "The guys here will give you a hard time with the check in special.", "labels": [{"aspect": "guys", "polarity": "negative"}]}
+{"text": "Chicken teriyaki is good, vegetables nicely preppes, good serving portion, price friendly", "labels": [{"aspect": "Chicken teriyaki", "polarity": "positive"}, {"aspect": "vegetables", "polarity": "positive"}, {"aspect": "portion", "polarity": "positive"}]}
+{"text": "If you're looking for homemade local food.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Thats the address.You should try \"keskek\" which is a traditional food.", "labels": [{"aspect": "address", "polarity": "positive"}, {"aspect": "\"keskek\"", "polarity": "positive"}]}
+{"text": "The Red Velvet Waffles are to die for!", "labels": [{"aspect": "Red Velvet Waffles", "polarity": "positive"}]}
+{"text": "The owner, Whitney, suggested the small pies for client thank you gifts.", "labels": [{"aspect": "owner", "polarity": "positive"}, {"aspect": "pies", "polarity": "positive"}]}
+{"text": "I tried the Dutch Apple, it was DELICIOUS!!!", "labels": [{"aspect": "Dutch Apple", "polarity": "positive"}]}
+{"text": "Really excellent beer selection, solid food choices, and probably the worst music ever.", "labels": [{"aspect": "beer selection", "polarity": "positive"}, {"aspect": "food choices", "polarity": "positive"}, {"aspect": "music", "polarity": "negative"}]}
+{"text": "Soo tasty meze, great balcony overviewing the bay", "labels": [{"aspect": "meze", "polarity": "positive"}, {"aspect": "balcony", "polarity": "positive"}]}
+{"text": "This McDonald's is slow.", "labels": [{"aspect": "McDonald's", "polarity": "negative"}]}
+{"text": "Get the Atticus Finch.", "labels": [{"aspect": "Atticus Finch", "polarity": "positive"}]}
+{"text": "These burgers are the shit!", "labels": [{"aspect": "burgers", "polarity": "negative"}]}
+{"text": "Forget Grill'd , Forget all other burger joints in Melbourne.", "labels": [{"aspect": "Grill'd", "polarity": "negative"}]}
+{"text": "Danny's Burgers is where its at!", "labels": [{"aspect": "Danny's Burgers", "polarity": "positive"}]}
+{"text": "Avoid the butter chicken unless you want a bowl of microwaved stodge with no taste and fatty chicken.", "labels": [{"aspect": "butter chicken", "polarity": "negative"}]}
+{"text": "Not to mention the stale bread!", "labels": [{"aspect": "bread", "polarity": "negative"}]}
+{"text": "On the plus side service was lightening fast!", "labels": [{"aspect": "service", "polarity": "negative"}]}
+{"text": "Always great service up in the bar.", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "Love the Chicago 7 calzone.", "labels": [{"aspect": "Chicago 7 calzone", "polarity": "positive"}]}
+{"text": "The chicken wing is the best xD yums <3", "labels": [{"aspect": "chicken wing", "polarity": "positive"}]}
+{"text": "Awesome Chicken Greek Salad", "labels": [{"aspect": "Chicken Greek Salad", "polarity": "positive"}]}
+{"text": "Breakfast was awful.", "labels": [{"aspect": "Breakfast", "polarity": "negative"}]}
+{"text": "No server came to greet us the whole hour our three person party was there which meant we couldn't order any hot food.", "labels": [{"aspect": "server", "polarity": "negative"}]}
+{"text": "Every table was dirty and food that was out was old.", "labels": [{"aspect": "table", "polarity": "negative"}, {"aspect": "food", "polarity": "negative"}]}
+{"text": "Great food, kids are too loud......", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "kids", "polarity": "negative"}]}
+{"text": "The shrimp risotto off the dinner menu is EPIC", "labels": [{"aspect": "shrimp risotto", "polarity": "positive"}]}
+{"text": "Great breakfasts in a nice furnished caf\u00e8, slightly bohemian.", "labels": [{"aspect": "breakfasts", "polarity": "positive"}, {"aspect": "caf\u00e8", "polarity": "positive"}]}
+{"text": "Staff was friendly and they have free wifi.", "labels": [{"aspect": "Staff", "polarity": "positive"}]}
+{"text": "Everything is organic and they have a great selection of jams.", "labels": [{"aspect": "selection of jams", "polarity": "positive"}, {"aspect": "Everything", "polarity": "positive"}]}
+{"text": "Their beef salpicao is delicious!", "labels": [{"aspect": "beef salpicao", "polarity": "positive"}]}
+{"text": "Good ambience and fast service!", "labels": [{"aspect": "ambience", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "It's a nice place,quiet and comfortable with nice people and good food...I recommend.", "labels": [{"aspect": "place", "polarity": "positive"}, {"aspect": "people", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}]}
+{"text": "Great fresh food.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Nice simple place, fish and sea food available, prices are fine and easy to park.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "10/10, would consume caffeine here again.", "labels": [{"aspect": "caffeine", "polarity": "positive"}]}
+{"text": "Best pizza in town!", "labels": [{"aspect": "pizza", "polarity": "positive"}]}
+{"text": "Excellent wings and salad!", "labels": [{"aspect": "wings", "polarity": "positive"}, {"aspect": "salad", "polarity": "positive"}]}
+{"text": "Great lunch specials!", "labels": [{"aspect": "lunch specials", "polarity": "positive"}]}
+{"text": "Place is very clean, amazing service an atmosphere looking forward to going back to try brunch!", "labels": [{"aspect": "Place", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}, {"aspect": "atmosphere", "polarity": "positive"}]}
+{"text": "Service here is great all the time :)", "labels": [{"aspect": "Service", "polarity": "positive"}]}
+{"text": "This place rocks!", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Great view of Crab Island as u enjoy a great fish sandwich with a cold one!", "labels": [{"aspect": "view", "polarity": "positive"}, {"aspect": "fish sandwich", "polarity": "positive"}]}
+{"text": "Wash down a tuna tartar with an Ion martini!", "labels": [{"aspect": "tuna tartar", "polarity": "positive"}, {"aspect": "Ion martini", "polarity": "positive"}]}
+{"text": "You'll love this electrolyte enhanced vodka!", "labels": [{"aspect": "electrolyte enhanced vodka", "polarity": "positive"}]}
+{"text": "Service is terrible, sadly it is not the managements fault.", "labels": [{"aspect": "Service", "polarity": "negative"}, {"aspect": "managements", "polarity": "neutral"}]}
+{"text": "There is just no respect shown by the general staff.", "labels": [{"aspect": "staff", "polarity": "negative"}]}
+{"text": "Great food!", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Fair price, good ambiance and live music.", "labels": [{"aspect": "ambiance", "polarity": "positive"}, {"aspect": "music", "polarity": "positive"}]}
+{"text": "Best wine in town, we will be back for more.", "labels": [{"aspect": "wine", "polarity": "positive"}]}
+{"text": "Get a calzone.", "labels": [{"aspect": "calzone", "polarity": "positive"}]}
+{"text": "Lovely food, good portions, friendly staff.", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "portions", "polarity": "positive"}, {"aspect": "staff", "polarity": "positive"}]}
+{"text": "Serves a wide range of cooked and grilled meals daily till 6 pm.", "labels": [{"aspect": "cooked and grilled meals", "polarity": "positive"}]}
+{"text": "Try the cakes (the large ones), especially the one with forest fruits and chocolate.", "labels": [{"aspect": "cakes", "polarity": "positive"}]}
+{"text": "This was the worst Brazilian BBQ I,ve ever been to.", "labels": [{"aspect": "BBQ", "polarity": "negative"}]}
+{"text": "The meatshadno flavor and the chicken was completely dry.", "labels": [{"aspect": "meatshadno", "polarity": "negative"}, {"aspect": "chicken", "polarity": "negative"}]}
+{"text": "Awful experience, the waitress was too busy taking care of other tables.", "labels": [{"aspect": "waitress", "polarity": "negative"}]}
+{"text": "The ceviche is amazing.", "labels": [{"aspect": "ceviche", "polarity": "positive"}]}
+{"text": "You got to try the new Brioche specials :)", "labels": [{"aspect": "Brioche specials", "polarity": "positive"}]}
+{"text": "The Prosciutto sandwich is the Jam.", "labels": [{"aspect": "Prosciutto sandwich", "polarity": "positive"}]}
+{"text": "Petifores (sp) are the way to go!", "labels": [{"aspect": "Petifores", "polarity": "positive"}]}
+{"text": "The center cut filet is a MUST if you're here for dinner.", "labels": [{"aspect": "center cut filet", "polarity": "positive"}]}
+{"text": "If you find yourself here for brunch, the French toast is the way to go.", "labels": [{"aspect": "French toast", "polarity": "positive"}]}
+{"text": "Great cake here..", "labels": [{"aspect": "Great cake", "polarity": "positive"}]}
+{"text": "Herb and bacon cream cheese.", "labels": [{"aspect": "Herb and bacon cream cheese", "polarity": "positive"}]}
+{"text": "Ikura Oroshi is amazing.", "labels": [{"aspect": "Ikura Oroshi", "polarity": "positive"}]}
+{"text": "The second time I also discovered the black miso cod.", "labels": [{"aspect": "black miso cod", "polarity": "positive"}]}
+{"text": "Best cakes,, try the mini chocolate buttons <3 I also love their red-velvet cakes <33", "labels": [{"aspect": "cakes", "polarity": "positive"}, {"aspect": "mini chocolate buttons", "polarity": "positive"}, {"aspect": "red-velvet cakes", "polarity": "positive"}]}
+{"text": "Pancakes are very tasty.", "labels": [{"aspect": "Pancakes", "polarity": "positive"}]}
+{"text": "You have to try their Spanish Latte!", "labels": [{"aspect": "Spanish Latte", "polarity": "positive"}]}
+{"text": "Medicore sushi, not special on taste nor variety and beamwallet doesn't work if you are considering it.", "labels": [{"aspect": "sushi", "polarity": "neutral"}]}
+{"text": "Overall bad experience and waiting for management to rectify the beamwallet issue.", "labels": [{"aspect": "management", "polarity": "negative"}]}
+{"text": "Be in Efes for 2nd time same as last time great food great Mr. Ramadan.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Dude, Alex makes the best coffee! and he's awfully forceful when it comes to chocolate croissants.", "labels": [{"aspect": "Alex", "polarity": "positive"}, {"aspect": "coffee", "polarity": "positive"}]}
+{"text": "Excellent service.", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "Very nice service and these biscuits are delicious!", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "biscuits", "polarity": "positive"}]}
+{"text": "Garlic and herbs crab + shrimp manchurian + oyster :victory_hand:", "labels": [{"aspect": "Garlic and herbs crab", "polarity": "positive"}, {"aspect": "shrimp manchurian", "polarity": "positive"}, {"aspect": "oyster", "polarity": "positive"}]}
+{"text": "Great great food, not too pricey, good service and nice location near the center of the resort and the beach.", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}, {"aspect": "location", "polarity": "positive"}]}
+{"text": "Go to sandwich bar for lunch and split it with someone, they give big portions for a good price", "labels": [{"aspect": "portions", "polarity": "positive"}, {"aspect": "portions", "polarity": "positive"}]}
+{"text": "Margaritas are so strong and I swear there's something not right about them.", "labels": [{"aspect": "Margaritas", "polarity": "negative"}]}
+{"text": "Great service and coffee.", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "coffee", "polarity": "positive"}]}
+{"text": "Often crowded and few tables, but cozy.", "labels": [{"aspect": "tables", "polarity": "negative"}]}
+{"text": "I always go for the Pepper Lunch Express...always the best beef pepper rice upsize meal....", "labels": [{"aspect": "Pepper Lunch Express", "polarity": "positive"}, {"aspect": "beef pepper rice", "polarity": "positive"}, {"aspect": "meal", "polarity": "positive"}]}
+{"text": "The staff...from the host to the bartender...were very lovely.", "labels": [{"aspect": "host", "polarity": "positive"}, {"aspect": "bartender", "polarity": "positive"}, {"aspect": "staff", "polarity": "positive"}]}
+{"text": "Scones are highly recommended both plain and seasonal.", "labels": [{"aspect": "Scones", "polarity": "positive"}]}
+{"text": "Plus, royal milk tea cake tastes so good, not too sweet.", "labels": [{"aspect": "royal milk tea cake", "polarity": "positive"}]}
+{"text": "Here is such a cute and cozy cafe in the heart of Bangkok.", "labels": [{"aspect": "cafe", "polarity": "positive"}]}
+{"text": "The stuffed pizza rawks", "labels": [{"aspect": "stuffed pizza", "polarity": "positive"}]}
+{"text": "The scallops are fantastic.", "labels": [{"aspect": "scallops", "polarity": "positive"}]}
+{"text": "Have a bottle of Newton Chardonnay to go with it.", "labels": [{"aspect": "Newton Chardonnay", "polarity": "positive"}]}
+{"text": "Try the bacon.", "labels": [{"aspect": "bacon", "polarity": "positive"}]}
+{"text": "Really thick cuts done at order time, great smoky taste.", "labels": [{"aspect": "taste", "polarity": "positive"}, {"aspect": "cuts", "polarity": "positive"}]}
+{"text": "Best Gyro and Baklava in town!!!", "labels": [{"aspect": "Gyro", "polarity": "positive"}, {"aspect": "Baklava", "polarity": "positive"}]}
+{"text": "Alex is a very awesome man!!", "labels": [{"aspect": "Alex", "polarity": "positive"}]}
+{"text": "Coffee with hazelnut is intoxicating", "labels": [{"aspect": "Coffee with hazelnut", "polarity": "positive"}]}
+{"text": "One of a great Taiwanese Steamboat.", "labels": [{"aspect": "Taiwanese Steamboat", "polarity": "positive"}]}
+{"text": "Love the solid herbal soup base n the spicy soup is also jus nice.", "labels": [{"aspect": "solid herbal soup base", "polarity": "positive"}, {"aspect": "spicy soup", "polarity": "positive"}]}
+{"text": "Fried oyster sliders will change your life.", "labels": [{"aspect": "Fried oyster sliders", "polarity": "positive"}]}
+{"text": "Check out the All In burger!", "labels": [{"aspect": "All In burger", "polarity": "positive"}]}
+{"text": "Also, their potato salad is fantastic!", "labels": [{"aspect": "potato salad", "polarity": "positive"}]}
+{"text": "Ask for Caryn or Kristen, they are the best servers!", "labels": [{"aspect": "Caryn", "polarity": "positive"}, {"aspect": "Kristen", "polarity": "positive"}]}
+{"text": "Their house-made honey-nougat ice cream really tasted much better than the commercial ice creams out there!", "labels": [{"aspect": "honey-nougat ice cream", "polarity": "positive"}]}
+{"text": "Try the mix fruit juice.", "labels": [{"aspect": "mix fruit juice", "polarity": "positive"}]}
+{"text": "The passion tea is yum!", "labels": [{"aspect": "passion tea", "polarity": "positive"}]}
+{"text": "The three amigos enchiladas are GREAT!", "labels": [{"aspect": "three amigos enchiladas", "polarity": "positive"}]}
+{"text": "Wednesdays wine and beer are 1/2 off after 3pm :) #vegas #townsquare @crazypita", "labels": [{"aspect": "wine", "polarity": "positive"}, {"aspect": "beer", "polarity": "positive"}]}
+{"text": "Very cool vibe and a great dessert/coffee selection.", "labels": [{"aspect": "vibe", "polarity": "positive"}, {"aspect": "dessert", "polarity": "positive"}, {"aspect": "coffee", "polarity": "positive"}]}
+{"text": "One of my favourite when I come here is mee bandung.", "labels": [{"aspect": "mee bandung", "polarity": "positive"}]}
+{"text": "The best mee bandung in town..", "labels": [{"aspect": "mee bandung", "polarity": "positive"}]}
+{"text": "Kelantanesse okay yg masak!", "labels": [{"aspect": "Kelantanesse", "polarity": "positive"}]}
+{"text": "Try the Tea Latte's, It's refreshing and calming", "labels": [{"aspect": "Tea Latte's", "polarity": "positive"}]}
+{"text": "Get ready to wait 1 hour for a bad hamburger!", "labels": [{"aspect": "hamburger", "polarity": "negative"}]}
+{"text": "Beat chicken wing, one of the restaurant tauke soh (woman) attitude very rude !!", "labels": [{"aspect": "chicken wing", "polarity": "positive"}, {"aspect": "woman", "polarity": "negative"}]}
+{"text": "Nice and cosy bar, cafe!", "labels": [{"aspect": "bar, cafe", "polarity": "positive"}, {"aspect": "bar, cafe", "polarity": "positive"}]}
+{"text": "Horrible food..", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "And service as well ..", "labels": [{"aspect": "service", "polarity": "negative"}]}
+{"text": "Picanha show !!!!!!", "labels": [{"aspect": "Picanha", "polarity": "negative"}]}
+{"text": "Perfect margarita will destroy you (in a good way)", "labels": [{"aspect": "margarita", "polarity": "positive"}]}
+{"text": "Great tapas and cheap beers...", "labels": [{"aspect": "tapas", "polarity": "positive"}, {"aspect": "beers", "polarity": "positive"}]}
+{"text": "Try the Asado Beef Ribs, the Lokum Beef and the Atnep Baklava for desserts.", "labels": [{"aspect": "Asado Beef Ribs", "polarity": "positive"}, {"aspect": "Lokum Beef", "polarity": "positive"}, {"aspect": "Atnep Baklava", "polarity": "positive"}]}
+{"text": "Great coffee, beautiful space!", "labels": [{"aspect": "coffee", "polarity": "positive"}, {"aspect": "space", "polarity": "positive"}]}
+{"text": "Best chicken ever", "labels": [{"aspect": "chicken", "polarity": "positive"}]}
+{"text": "Awesome service and affordable! 12 pieces of sashimi for ten bux!", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "sashimi", "polarity": "positive"}]}
+{"text": "Good place to try your first coffee in Vienne.", "labels": [{"aspect": "coffee", "polarity": "positive"}, {"aspect": "place", "polarity": "positive"}]}
+{"text": "Drive thru slow even on weekends.", "labels": [{"aspect": "Drive", "polarity": "negative"}]}
+{"text": "The mushroom crostini is OUT of this world.", "labels": [{"aspect": "mushroom crostini", "polarity": "positive"}]}
+{"text": "Apparently there's no time to help customers with 2 employees and 0 line, but plenty of time to worry about \"rules\" against \"free cups\"", "labels": [{"aspect": "employees", "polarity": "negative"}]}
+{"text": "Pitas are incredibly tasty but avoid the lentil soup at all costs.", "labels": [{"aspect": "Pitas", "polarity": "positive"}, {"aspect": "lentil soup", "polarity": "negative"}]}
+{"text": "Gunkan Crujiente, boys! an apetizer yiu won't regret!!!", "labels": [{"aspect": "Gunkan Crujiente", "polarity": "positive"}, {"aspect": "apetizer", "polarity": "positive"}]}
+{"text": "Nice food...", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Hmmm lasagna's nothing to write home about....", "labels": [{"aspect": "lasagna", "polarity": "negative"}]}
+{"text": "Very very nice interior.", "labels": [{"aspect": "interior", "polarity": "positive"}]}
+{"text": "Coffee is a little bit too light.", "labels": [{"aspect": "Coffee", "polarity": "negative"}]}
+{"text": "Bruno dough is the yummiest!", "labels": [{"aspect": "dough", "polarity": "positive"}]}
+{"text": "Best 1/2 & 1/2's in town!", "labels": [{"aspect": "1/2 & 1/2's", "polarity": "positive"}]}
+{"text": "You can't find any place that serves the warm veal tongue here in KL!", "labels": [{"aspect": "warm veal tongue", "polarity": "positive"}]}
+{"text": "If you want the best Japanese Ramen restaurant, please visit Ureshii Kitchen!!", "labels": [{"aspect": "Ureshii Kitchen", "polarity": "positive"}]}
+{"text": "For vegans: Get the grilled portabella vegetarian sandwich minus the cheese & mayo", "labels": [{"aspect": "grilled portabella vegetarian sandwich minus the cheese & mayo", "polarity": "positive"}]}
+{"text": "Try the chocolate mouse - so good.", "labels": [{"aspect": "chocolate mouse", "polarity": "positive"}]}
+{"text": "The trivia games at the table-side iPads are fun by watch out!", "labels": [{"aspect": "trivia games", "polarity": "positive"}]}
+{"text": "get the mexican hot chocolate here. it's something special", "labels": [{"aspect": "hot chocolate", "polarity": "positive"}]}
+{"text": "Try the deserts too, great crem brule.", "labels": [{"aspect": "deserts", "polarity": "positive"}, {"aspect": "crem brule", "polarity": "positive"}]}
+{"text": "Great food but slooooooowest service ever!!!", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "service", "polarity": "negative"}]}
+{"text": "$3 Burgers On Wednesdays", "labels": [{"aspect": "Burgers", "polarity": "positive"}]}
+{"text": "THAI ICED COFFEE!!", "labels": [{"aspect": "THAI ICED COFFEE", "polarity": "positive"}]}
+{"text": "This is such an awesome little place.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "You can't go wrong.", "labels": [{"aspect": "You can't go wrong.", "polarity": "positive"}]}
+{"text": "Their BBQ pork buns are SUPER tasty.", "labels": [{"aspect": "BBQ pork buns", "polarity": "positive"}]}
+{"text": "And the bubble tea is so delicious.", "labels": [{"aspect": "bubble tea", "polarity": "positive"}]}
+{"text": "Spicy lobster roll is amazing.", "labels": [{"aspect": "Spicy lobster roll", "polarity": "positive"}]}
+{"text": "the jerk tofu wrap is spicy...and delicious", "labels": [{"aspect": "jerk tofu wrap", "polarity": "positive"}]}
+{"text": "Great tasting burger.", "labels": [{"aspect": "burger", "polarity": "positive"}]}
+{"text": "The Parmesan chips with truffle sauce were crunchy and yummy.", "labels": [{"aspect": "Parmesan chips with truffle sauce", "polarity": "positive"}]}
+{"text": "Not bad .. delicious french fries :OK_hand:", "labels": [{"aspect": "french fries", "polarity": "positive"}]}
+{"text": "Cheesy ravioli is the best", "labels": [{"aspect": "Cheesy ravioli", "polarity": "positive"}]}
+{"text": "gobblerito: thanksgiving season special.", "labels": [{"aspect": "gobblerito", "polarity": "positive"}]}
+{"text": "Get the pasta portofino salad and iced mocha, and hang out for a little while.", "labels": [{"aspect": "pasta portofino salad", "polarity": "positive"}, {"aspect": "iced mocha,", "polarity": "positive"}]}
+{"text": "Amazing view and great BLAT sandwich as well as California burger.", "labels": [{"aspect": "view", "polarity": "positive"}, {"aspect": "BLAT sandwich", "polarity": "positive"}, {"aspect": "California burger", "polarity": "positive"}]}
+{"text": "Great rest stop!", "labels": [{"aspect": "rest", "polarity": "positive"}]}
+{"text": "Super friendly staff! & tasty sandwiches.", "labels": [{"aspect": "staff", "polarity": "positive"}, {"aspect": "sandwiches", "polarity": "positive"}]}
+{"text": "Try Montagnard", "labels": [{"aspect": "Montagnard", "polarity": "positive"}]}
+{"text": "Awesome dumplings!", "labels": [{"aspect": "dumplings", "polarity": "positive"}]}
+{"text": "Good service! ^^", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "PB&J shake is a must!", "labels": [{"aspect": "PB&J shake", "polarity": "positive"}]}
+{"text": "Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.", "labels": [{"aspect": "cafe", "polarity": "positive"}, {"aspect": "cafe", "polarity": "positive"}, {"aspect": "seats", "polarity": "positive"}, {"aspect": "piano", "polarity": "positive"}, {"aspect": "vibe", "polarity": "positive"}, {"aspect": "coffee", "polarity": "positive"}, {"aspect": "style", "polarity": "positive"}]}
+{"text": "Great staff!", "labels": [{"aspect": "staff", "polarity": "positive"}]}
+{"text": "Im solved :p , for the record..burgers are tasty, and the staff are very welcoming ;)", "labels": [{"aspect": "burgers", "polarity": "positive"}, {"aspect": "staff", "polarity": "positive"}]}
+{"text": "Basically lived here for a week.", "labels": [{"aspect": "Basically lived here for a week.", "polarity": "positive"}]}
+{"text": "Awesome place that captures the European cafe culture.", "labels": [{"aspect": "place", "polarity": "positive"}, {"aspect": "European cafe culture", "polarity": "positive"}]}
+{"text": "Also BEST croissant I've ever had! :)", "labels": [{"aspect": "croissant", "polarity": "positive"}]}
+{"text": "Great food, one of the best, awesome presentation of food!!!", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "presentation of food", "polarity": "positive"}]}
+{"text": "Good service to", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "They have the best Schawarma in UAE.", "labels": [{"aspect": "Schawarma", "polarity": "positive"}]}
+{"text": "As much as I love the food here, I absolutely do not recommend it anytime it's anything other than completely dead.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "This new Birmingham restaurant just opened, but the comforting European-influenced food and carefully curated children's menu are already drawing local attention.", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "menu", "polarity": "positive"}]}
+{"text": "Eat here the meze from the chef or try the retsina plate", "labels": [{"aspect": "meze from the chef", "polarity": "positive"}, {"aspect": "retsina plate", "polarity": "positive"}]}
+{"text": "Kevin is by far one of the best bartenders in the business.", "labels": [{"aspect": "Kevin", "polarity": "positive"}]}
+{"text": "Very friendly staff and good service, We were there Monday lunch, 3 March 2014, forgot to ask her name.", "labels": [{"aspect": "staff", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Need more staff there.", "labels": [{"aspect": "staff", "polarity": "negative"}]}
+{"text": "There is a huge variety of food and drinks half off.", "labels": [{"aspect": "variety of food", "polarity": "positive"}, {"aspect": "drinks", "polarity": "positive"}]}
+{"text": "The pub is perfect for a quick bite and drink.", "labels": [{"aspect": "pub", "polarity": "positive"}]}
+{"text": "Dude,,one one the 3 best margaritas in the world.", "labels": [{"aspect": "margaritas", "polarity": "positive"}]}
+{"text": "I love the potato balls and the baked ham and cheese croissants!", "labels": [{"aspect": "potato balls", "polarity": "positive"}, {"aspect": "baked ham and cheese croissants", "polarity": "positive"}]}
+{"text": "Cheese rolls with guava!", "labels": [{"aspect": "Cheese rolls with guava", "polarity": "positive"}]}
+{"text": "Love the cheese tart ..<3", "labels": [{"aspect": "cheese tart", "polarity": "positive"}]}
+{"text": "Art cafe nice vienna atmosphere", "labels": [{"aspect": "atmosphere", "polarity": "positive"}]}
+{"text": "Splitting the big breakfast with a friend is awesome, affordable, and will full up just about anybody.", "labels": [{"aspect": "breakfast", "polarity": "positive"}, {"aspect": "breakfast", "polarity": "positive"}]}
+{"text": "The food can't be beat.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Best Arby's on Telegraph!", "labels": [{"aspect": "Arby's", "polarity": "positive"}]}
+{"text": "Shitty service", "labels": [{"aspect": "service", "polarity": "negative"}]}
+{"text": "the food is 10/10 :clapping_hands::clapping_hands:", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Breakfast burrito never let's me down.", "labels": [{"aspect": "Breakfast burrito", "polarity": "positive"}]}
+{"text": "The chorizo is a must!!", "labels": [{"aspect": "chorizo", "polarity": "positive"}]}
+{"text": "Great food", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "The tenderloin is Oh.", "labels": [{"aspect": "tenderloin", "polarity": "positive"}]}
+{"text": "This place is the real deal.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "awesome old school italian! super welcoming staff. loved it. fast & cozy for lunch.", "labels": [{"aspect": "staff", "polarity": "positive"}]}
+{"text": "This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(", "labels": [{"aspect": "place", "polarity": "negative"}, {"aspect": "service", "polarity": "negative"}, {"aspect": "food", "polarity": "negative"}, {"aspect": "food", "polarity": "negative"}]}
+{"text": "Great place for a quiet lunch near the perimeter that is NOT a chain or forcing you to fight traffic.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "The salads here are the best!", "labels": [{"aspect": "salads", "polarity": "positive"}]}
+{"text": "Possibly the best bistro in Brooklyn.", "labels": [{"aspect": "bistro", "polarity": "positive"}]}
+{"text": "Awesome cajun chicken + gumbo.", "labels": [{"aspect": "cajun chicken + gumbo", "polarity": "positive"}]}
+{"text": "Order the beignets (suggested by Becky)-you will not be disappointed", "labels": [{"aspect": "beignets", "polarity": "positive"}, {"aspect": "Becky", "polarity": "positive"}]}
+{"text": "Try the orange chicken!!", "labels": [{"aspect": "orange chicken", "polarity": "positive"}]}
+{"text": "Nice shisha .. give it a try.", "labels": [{"aspect": "shisha", "polarity": "positive"}]}
+{"text": "Best coffee on the NH-45", "labels": [{"aspect": "coffee", "polarity": "positive"}]}
+{"text": "Get the cheese plate.", "labels": [{"aspect": "cheese plate", "polarity": "positive"}]}
+{"text": "Biryani at this place makes you feel like at Hyderabad", "labels": [{"aspect": "Biryani", "polarity": "positive"}]}
+{"text": "The ice cream is fantastic and it's cheaper than Grom.", "labels": [{"aspect": "ice cream", "polarity": "positive"}]}
+{"text": "One of my top 3 ice creams in torino.", "labels": [{"aspect": "ice creams", "polarity": "positive"}]}
+{"text": "Chantilly and Nocciola variegato gianduja.", "labels": [{"aspect": "Chantilly and Nocciola variegato gianduja", "polarity": "positive"}]}
+{"text": "Baristar here r quiet good...", "labels": [{"aspect": "Baristar", "polarity": "positive"}]}
+{"text": "Smooth hot coffee...", "labels": [{"aspect": "coffee", "polarity": "positive"}]}
+{"text": "Nice food, special here r buy 2 pints FREE 1 pints only at RM42++ add 1 more tips here is Segafredo WiFi password is \"sega123456789\"", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Nusr-et marine etmeden dover bunu:) Empaladas and baby goat(*) nice; but steak disappointing! try argentine wine; any malbec!...", "labels": [{"aspect": "Empaladas", "polarity": "positive"}, {"aspect": "baby goat", "polarity": "positive"}, {"aspect": "steak", "polarity": "negative"}, {"aspect": "argentine wine", "polarity": "positive"}, {"aspect": "malbec", "polarity": "positive"}]}
+{"text": "Gourmet Mexican food with nearly 300 tequilas to choose from, descriptions which can be easily accessed on the iPad menus, will be great to drink on the seaside deck (note: don't drop the menu).", "labels": [{"aspect": "tequilas", "polarity": "positive"}, {"aspect": "seaside deck", "polarity": "positive"}]}
+{"text": "The \u00a5200 extra ser includes choice among five side dishes and drinks - good deal in addition to three sizes of taco rice.", "labels": [{"aspect": "choice", "polarity": "positive"}, {"aspect": "taco rice", "polarity": "positive"}]}
+{"text": "Duck salad recommended", "labels": [{"aspect": "Duck salad", "polarity": "positive"}]}
+{"text": "Coffee is the best at this place..costly though", "labels": [{"aspect": "Coffee", "polarity": "positive"}]}
+{"text": "Try the chocolate cheese cake..", "labels": [{"aspect": "chocolate cheese cake", "polarity": "positive"}]}
+{"text": "A review in haiku: They have lots of meat | The filet tastes amazing | Food baby, I have....", "labels": [{"aspect": "meat", "polarity": "positive"}, {"aspect": "filet", "polarity": "positive"}]}
+{"text": "Homemade cakes in the restaurant are to die for.", "labels": [{"aspect": "cakes", "polarity": "positive"}]}
+{"text": "Quesadilla is to die for here!!!", "labels": [{"aspect": "Quesadilla", "polarity": "positive"}]}
+{"text": "Excellent western food.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Big oysters and a good po boy.", "labels": [{"aspect": "oysters", "polarity": "positive"}, {"aspect": "po boy", "polarity": "positive"}]}
+{"text": "Too expensive for average menu", "labels": [{"aspect": "menu", "polarity": "neutral"}]}
+{"text": "Seriously best buffet I've ever been too.", "labels": [{"aspect": "buffet", "polarity": "positive"}]}
+{"text": "Great service, good matcha tea", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "matcha tea", "polarity": "positive"}]}
+{"text": "One of my favourite Starbucks stores in San Antonio!", "labels": [{"aspect": "Starbucks", "polarity": "positive"}]}
+{"text": "Excellent (and friendly) staff, very clean, and usually just busy enough.", "labels": [{"aspect": "staff", "polarity": "positive"}]}
+{"text": "Try the Crispy Fried Smelts", "labels": [{"aspect": "Crispy Fried Smelts", "polarity": "positive"}]}
+{"text": "4 to 6 most days - great music with the Happy Hour", "labels": [{"aspect": "music", "polarity": "positive"}]}
+{"text": "Don't go inside for service, use drive thru.", "labels": [{"aspect": "service", "polarity": "negative"}]}
+{"text": "I love this ;-)", "labels": [{"aspect": "I love this ;-)", "polarity": "positive"}]}
+{"text": "Found alot of baby cockroaches on the wall and even ur dining table!", "labels": [{"aspect": "cockroaches", "polarity": "negative"}]}
+{"text": "Very friendly service.", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "Apple pie and crab cake :smiling_face_with_heart-eyes:", "labels": [{"aspect": "Apple pie", "polarity": "positive"}, {"aspect": "crab cake", "polarity": "positive"}]}
+{"text": "The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.", "labels": [{"aspect": "coffee", "polarity": "positive"}, {"aspect": "menu", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}]}
+{"text": "The waitstaff is crazy, but fun.", "labels": [{"aspect": "waitstaff", "polarity": "positive"}, {"aspect": "waitstaff", "polarity": "positive"}]}
+{"text": "Fabulous new fit out and even better coffee!", "labels": [{"aspect": "coffee", "polarity": "positive"}, {"aspect": "fit out", "polarity": "positive"}]}
+{"text": "The window is s good place to people watch", "labels": [{"aspect": "window", "polarity": "positive"}]}
+{"text": "The lunch special is a great price and the rolls are delicious.", "labels": [{"aspect": "rolls", "polarity": "positive"}, {"aspect": "special", "polarity": "positive"}]}
+{"text": "One of the best coffee in the area beautiful shop", "labels": [{"aspect": "coffee", "polarity": "positive"}, {"aspect": "shop", "polarity": "positive"}]}
+{"text": "Best coffee in town.", "labels": [{"aspect": "coffee", "polarity": "positive"}]}
+{"text": "Friendly service too!", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "Best Burgers in town!", "labels": [{"aspect": "Burgers", "polarity": "positive"}]}
+{"text": "My favorite chinese resteraunt....", "labels": [{"aspect": "resteraunt", "polarity": "positive"}]}
+{"text": "Avoid the diner it s expensive and not really good!", "labels": [{"aspect": "diner", "polarity": "negative"}, {"aspect": "diner", "polarity": "negative"}]}
+{"text": "Bug deception", "labels": [{"aspect": "Bug", "polarity": "positive"}]}
+{"text": "Pumpkin cream cheese donuts rock!", "labels": [{"aspect": "Pumpkin cream cheese donuts", "polarity": "positive"}]}
+{"text": "Great food...slow service.", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "service", "polarity": "negative"}]}
+{"text": "Must try the vege tomyam curry mee!", "labels": [{"aspect": "vege tomyam curry mee", "polarity": "positive"}]}
+{"text": "One of the few chain places I know that do a Cortado", "labels": [{"aspect": "places", "polarity": "neutral"}]}
+{"text": "Best buffet and variety is huge!! <3", "labels": [{"aspect": "buffet", "polarity": "positive"}]}
+{"text": "Best diner in the area.", "labels": [{"aspect": "diner", "polarity": "positive"}]}
+{"text": "Good food and friendly service.", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Their corned beef breakfast is awesome.", "labels": [{"aspect": "corned beef breakfast", "polarity": "positive"}]}
+{"text": "Great place...", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Great food...", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "always like cuppa", "labels": [{"aspect": "cuppa", "polarity": "positive"}]}
+{"text": "Believe it or not, all the sandwiches that are made in the back where the Deli is are so fresh and delicious especially the hot subs, and the cold cuts you can't beat it.", "labels": [{"aspect": "cold cuts", "polarity": "positive"}, {"aspect": "hot subs", "polarity": "positive"}, {"aspect": "sandwiches", "polarity": "positive"}, {"aspect": "Deli", "polarity": "positive"}]}
+{"text": "If it's December and you didn't order a slice of Candy Cane Pie or Gingerbread Pie, you may want to seek out medical attention!", "labels": [{"aspect": "Candy Cane Pie", "polarity": "positive"}, {"aspect": "Gingerbread Pie", "polarity": "positive"}]}
+{"text": "Great Coffee, Can ring ahead to take away too.", "labels": [{"aspect": "Coffee", "polarity": "positive"}]}
+{"text": "Had the 3-way cannelloni and it was really delicious!", "labels": [{"aspect": "3-way cannelloni", "polarity": "positive"}]}
+{"text": "Very popular...don't get there late unless you're prepared to wait for at least an hour...great food :)", "labels": [{"aspect": "food :)", "polarity": "positive"}]}
+{"text": "lunch prix fixe is only $39, add the $10 for the pasta course!", "labels": [{"aspect": "lunch prix fixe", "polarity": "positive"}]}
+{"text": "The Garlic Bread is delicious try it.. :)", "labels": [{"aspect": "Garlic Bread", "polarity": "positive"}]}
+{"text": "best ever appetizer!skillet chip nachos!yum!", "labels": [{"aspect": "appetizer", "polarity": "positive"}, {"aspect": "skillet chip nachos", "polarity": "positive"}]}
+{"text": "the Pescado Burrito is excellent", "labels": [{"aspect": "Pescado Burrito", "polarity": "positive"}]}
+{"text": "The Mozzarella balls are humongous, but pair with the pesto sauces, it's a unique dining experience.", "labels": [{"aspect": "Mozzarella balls", "polarity": "positive"}, {"aspect": "pesto sauces", "polarity": "positive"}]}
+{"text": "good crawfish pies and a cool environment", "labels": [{"aspect": "crawfish pies", "polarity": "positive"}, {"aspect": "environment", "polarity": "positive"}]}
+{"text": "The sushi is pretty good, but the size of the portions is excessive - hard to eat.", "labels": [{"aspect": "sushi", "polarity": "positive"}, {"aspect": "portions", "polarity": "negative"}]}
+{"text": "If you want to order a hot beverage ask arthur to draw you something on your cup", "labels": [{"aspect": "arthur", "polarity": "positive"}]}
+{"text": "This place is AWESOME for drinks.", "labels": [{"aspect": "drinks", "polarity": "positive"}]}
+{"text": "You get a pitcher of sangria for $10 or of beer for $7!", "labels": [{"aspect": "pitcher of sangria", "polarity": "positive"}, {"aspect": "beer", "polarity": "positive"}]}
+{"text": "Check the daily specials, they are really good!", "labels": [{"aspect": "daily specials", "polarity": "positive"}]}
+{"text": "Love the Captain Crunch Nutty Brother.. to die for!", "labels": [{"aspect": "Captain Crunch Nutty Brother", "polarity": "positive"}]}
+{"text": "The beer mac and cheese is a huge portion and absolutely delicious.", "labels": [{"aspect": "beer mac and cheese", "polarity": "positive"}, {"aspect": "beer mac and cheese", "polarity": "positive"}]}
+{"text": "Food was tasty & fresh.", "labels": [{"aspect": "Food", "polarity": "positive"}]}
+{"text": "Try the Hot Chick xD Delicious.", "labels": [{"aspect": "Hot Chick", "polarity": "positive"}]}
+{"text": "No starbucks yes nero", "labels": [{"aspect": "starbucks", "polarity": "negative"}, {"aspect": "nero", "polarity": "positive"}]}
+{"text": "Loved The Thundercat (burger).", "labels": [{"aspect": "Thundercat", "polarity": "positive"}]}
+{"text": "Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.", "labels": [{"aspect": "waiter", "polarity": "negative"}, {"aspect": "food", "polarity": "negative"}, {"aspect": "roti bakar", "polarity": "positive"}, {"aspect": "roti keping", "polarity": "positive"}, {"aspect": "coffees", "polarity": "positive"}]}
+{"text": "Excellent and seasonally changing craft beers, brewed on premises in their own microbrewery.", "labels": [{"aspect": "craft beers", "polarity": "positive"}]}
+{"text": "The original, pilsener and wheat beer are always available.", "labels": [{"aspect": "pilsener", "polarity": "positive"}, {"aspect": "wheat beer", "polarity": "positive"}]}
+{"text": "The best croissants in Bratislava", "labels": [{"aspect": "croissants", "polarity": "positive"}]}
+{"text": "Nice & Healthy food ;)", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Fondue Mondays.", "labels": [{"aspect": "Fondue", "polarity": "positive"}]}
+{"text": "Deep fried cheeseburger spring rolls.", "labels": [{"aspect": "Deep fried cheeseburger spring rolls", "polarity": "positive"}]}
+{"text": "Ask for the seared scallops with pepper jack poblano grits.", "labels": [{"aspect": "seared scallops with pepper jack poblano grits", "polarity": "positive"}]}
+{"text": "(And everything tastes better when devoured on a garden patio)", "labels": [{"aspect": "garden patio", "polarity": "positive"}]}
+{"text": "Excellent food, huge wine variety, nice ambience & great service!", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "wine", "polarity": "positive"}, {"aspect": "ambience", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Try our pumpkin smash it's likes pumpkin pie in a cup!!!!!!", "labels": [{"aspect": "pumpkin smash", "polarity": "positive"}]}
+{"text": "The onion rings are large, crunchy and awesome.", "labels": [{"aspect": "onion rings", "polarity": "positive"}, {"aspect": "onion rings", "polarity": "positive"}]}
+{"text": "Try turkish coffee on sand!", "labels": [{"aspect": "turkish coffee on sand", "polarity": "positive"}]}
+{"text": "This has been my fave place for breakfast since I was in jr.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "I love all the omlettes.", "labels": [{"aspect": "omlettes", "polarity": "positive"}]}
+{"text": "My fave is the ham & cheese with potatoes and wheat toast.", "labels": [{"aspect": "ham & cheese with potatoes and wheat toast", "polarity": "positive"}]}
+{"text": "Try the Hopfenweisse (TAP 5) if you like really hoppy beer", "labels": [{"aspect": "Hopfenweisse", "polarity": "positive"}]}
+{"text": "Bocca coffee and Ottolenghi-inspired, healthy dishes.", "labels": [{"aspect": "Bocca coffee", "polarity": "positive"}, {"aspect": "dishes", "polarity": "positive"}]}
+{"text": "Take away, or make yourself comfy with your delis in the welcoming, homey space.", "labels": [{"aspect": "delis", "polarity": "positive"}, {"aspect": "space", "polarity": "positive"}]}
+{"text": "The fried fish here is tiny.", "labels": [{"aspect": "fried fish", "polarity": "negative"}]}
+{"text": "Please get bigger cups for water", "labels": [{"aspect": "cups", "polarity": "negative"}]}
+{"text": "The sandwiches are AMAZING, the coffee is :thumbs_up: and the people who work here are super friendly.", "labels": [{"aspect": "sandwiches", "polarity": "positive"}, {"aspect": "coffee", "polarity": "positive"}, {"aspect": "people", "polarity": "positive"}]}
+{"text": "The place is cool but the food is not good at all !", "labels": [{"aspect": "place", "polarity": "positive"}, {"aspect": "food", "polarity": "negative"}]}
+{"text": "the worst burger I've ever tried", "labels": [{"aspect": "burger", "polarity": "negative"}]}
+{"text": "Go w/ the seafood.", "labels": [{"aspect": "seafood", "polarity": "positive"}]}
+{"text": "Server was perplexed upon hearing about Foursquare \"special\".", "labels": [{"aspect": "Server", "polarity": "negative"}]}
+{"text": "The ultimate, ultimate grilled cheese has jalape\u00f1o Mac n cheese and pulled pork within this crazy Sammie.", "labels": [{"aspect": "grilled cheese", "polarity": "positive"}]}
+{"text": "Instead of ketchup, dip your fries in the big bad wolf sause!", "labels": [{"aspect": "big bad wolf sause", "polarity": "positive"}]}
+{"text": "Good food good service", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}]}
+{"text": "Freshest food & best happy hour in town! $2 craft pints 4-7.", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "happy hour", "polarity": "positive"}, {"aspect": "craft pints", "polarity": "positive"}]}
+{"text": "Great staff and service as well!", "labels": [{"aspect": "staff", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Service SUCKS!!!", "labels": [{"aspect": "Service", "polarity": "negative"}]}
+{"text": "Service does not come with a smile it comes with an attitude", "labels": [{"aspect": "Service", "polarity": "negative"}]}
+{"text": "Not a fan of the new Frappuccinos...", "labels": [{"aspect": "Frappuccinos", "polarity": "negative"}]}
+{"text": "If I were you I'd go for a Strawberry Smoothie with no Protein but add java chips.", "labels": [{"aspect": "Strawberry Smoothie with no Protein", "polarity": "positive"}, {"aspect": "java chips", "polarity": "positive"}]}
+{"text": "Excellent place to be with friends ... free karaoke guys... and great food ... unique design as jungle look a like ... two thumbs up ...!", "labels": [{"aspect": "place", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}, {"aspect": "karaoke", "polarity": "positive"}, {"aspect": "design", "polarity": "positive"}]}
+{"text": "Ask for Krystal.", "labels": [{"aspect": "Krystal", "polarity": "positive"}]}
+{"text": "Come after 3 p.m for the delicious warm scones!", "labels": [{"aspect": "warm scones", "polarity": "positive"}]}
+{"text": "Probably the best Veg restaurant on sinhagad road.", "labels": [{"aspect": "restaurant", "polarity": "positive"}]}
+{"text": "Try paneer tikka", "labels": [{"aspect": "paneer tikka", "polarity": "positive"}]}
+{"text": "Very good friendly service, and they promptly bring refills", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "Never had a good espresso here--only amazing espresso!", "labels": [{"aspect": "espresso", "polarity": "positive"}]}
+{"text": "Very bad service!", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "Love the free chips n salsa with every check in!", "labels": [{"aspect": "chips n salsa", "polarity": "positive"}]}
+{"text": "Best Bloody Mary's in downtown Hendersonvile....", "labels": [{"aspect": "Bloody Mary", "polarity": "positive"}]}
+{"text": "Best pizza you will ever have!", "labels": [{"aspect": "pizza", "polarity": "positive"}]}
+{"text": "The Meat King is a must and is also the one featured on the show, \"You Gotta Eat Here.\"", "labels": [{"aspect": "Meat King", "polarity": "positive"}]}
+{"text": "Take the coconut ice cream \u2013 it's incredible!", "labels": [{"aspect": "coconut ice cream", "polarity": "positive"}]}
+{"text": "The best West Indian Fried Rice.", "labels": [{"aspect": "West Indian Fried Rice", "polarity": "positive"}]}
+{"text": "Pamela was a GREAT server :)", "labels": [{"aspect": "Pamela", "polarity": "positive"}]}
+{"text": "They have the best Pad Thai!", "labels": [{"aspect": "Pad Thai", "polarity": "positive"}]}
+{"text": "This place has friendly cool staff and atmosphere, separated smoking room,generous menu,NOT for professionals though!", "labels": [{"aspect": "staff", "polarity": "positive"}, {"aspect": "atmosphere", "polarity": "positive"}, {"aspect": "smoking room", "polarity": "positive"}, {"aspect": "menu", "polarity": "positive"}]}
+{"text": "Must try: truffles scrambled eggs, crab tiramisu and wagyu", "labels": [{"aspect": "truffles scrambled eggs", "polarity": "positive"}, {"aspect": "crab tiramisu", "polarity": "positive"}, {"aspect": "wagyu", "polarity": "positive"}]}
+{"text": "This place has the worst service I don't care that it has an outdoor seating that people rave about !", "labels": [{"aspect": "service", "polarity": "negative"}, {"aspect": "outdoor seating", "polarity": "negative"}]}
+{"text": "In fact it's UGLY:neutral_face: and most of the food isn't available", "labels": [{"aspect": "food", "polarity": "negative"}]}
+{"text": "for take-away the service is rather slow", "labels": [{"aspect": "service", "polarity": "negative"}]}
+{"text": "Go when it's real busy for fresh foods.", "labels": [{"aspect": "foods", "polarity": "positive"}]}
+{"text": "Try Taqueria - L3 #03-29: Being intense foodies, we had the privilege to try the most unique Taco experience bar none.", "labels": [{"aspect": "Taqueria", "polarity": "positive"}, {"aspect": "Taco experience bar", "polarity": "positive"}]}
+{"text": "Bite & texture of the shell makes it all; Pollo, Carne, Pescado, all superb!!", "labels": [{"aspect": "Pollo", "polarity": "positive"}, {"aspect": "Carne", "polarity": "positive"}, {"aspect": "Pescado", "polarity": "positive"}]}
+{"text": "Chewy calamari.", "labels": [{"aspect": "calamari", "polarity": "negative"}]}
+{"text": "Salads swimming in dressing.", "labels": [{"aspect": "Salads", "polarity": "negative"}]}
+{"text": "Clumpy oily cream sauce.", "labels": [{"aspect": "cream sauce", "polarity": "negative"}]}
+{"text": "Warm beer.", "labels": [{"aspect": "beer", "polarity": "negative"}]}
+{"text": "I loved the philly steak sandwich, recommended :thumbs_up:", "labels": [{"aspect": "philly steak sandwich", "polarity": "positive"}]}
+{"text": "Try their 2ar3 3assal great way to end up a meal", "labels": [{"aspect": "2ar3 3assal", "polarity": "positive"}]}
+{"text": "They run awesome specials daily!!", "labels": [{"aspect": "specials", "polarity": "positive"}]}
+{"text": "The air conditioning is on but it is cooler outside (with a breeze) than inside.", "labels": [{"aspect": "air conditioning", "polarity": "negative"}]}
+{"text": "Don't get the reuben.", "labels": [{"aspect": "reuben", "polarity": "negative"}]}
+{"text": "The other menu items I've had are quite good, however.", "labels": [{"aspect": "menu items", "polarity": "positive"}]}
+{"text": "Order the iced green tea strawberry creme ....So good", "labels": [{"aspect": "iced green tea strawberry creme", "polarity": "positive"}]}
+{"text": "It's not on the menu as a dipping sauce, but ask for the Creamy Jalape\u00f1o sauce as a dip for your tortilla chips", "labels": [{"aspect": "Creamy Jalape\u00f1o sauce", "polarity": "positive"}]}
+{"text": "Good beer, tourist prices ;)", "labels": [{"aspect": "beer", "polarity": "positive"}]}
+{"text": "Nice and quite place with relaxed atmosphere at the midst of the relatively business district.", "labels": [{"aspect": "place", "polarity": "positive"}, {"aspect": "atmosphere", "polarity": "positive"}]}
+{"text": "Great place for Friends, Family, and couples during the evening.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Need to improve the service though!", "labels": [{"aspect": "service", "polarity": "negative"}]}
+{"text": "Thurs/Fri are the best nights", "labels": [{"aspect": "Thurs/Fri are the best nights", "polarity": "positive"}]}
+{"text": "The brownie was quite tasty", "labels": [{"aspect": "brownie", "polarity": "positive"}]}
+{"text": "The dish is great, some are so-so but still great.", "labels": [{"aspect": "dish", "polarity": "positive"}, {"aspect": "some", "polarity": "neutral"}]}
+{"text": "Love the salad and fruit bar.", "labels": [{"aspect": "salad and fruit bar", "polarity": "positive"}]}
+{"text": "Fancy interior design.", "labels": [{"aspect": "interior design", "polarity": "positive"}]}
+{"text": "8pc spicy tuna roll for only $2!", "labels": [{"aspect": "picy tuna roll", "polarity": "positive"}]}
+{"text": "Pork tacos a little salty but good size portion.", "labels": [{"aspect": "Pork tacos", "polarity": "neutral"}, {"aspect": "portion", "polarity": "positive"}]}
+{"text": "Love the strawberry salad :)", "labels": [{"aspect": "strawberry salad", "polarity": "positive"}]}
+{"text": "Love the whole wheat bread...", "labels": [{"aspect": "whole wheat bread", "polarity": "positive"}]}
+{"text": "Really great pho in a hole in the wall on Colfax.", "labels": [{"aspect": "pho", "polarity": "positive"}]}
+{"text": "Get the beef pho! (and they deliver)", "labels": [{"aspect": "beef pho", "polarity": "positive"}]}
+{"text": "the baby back ribs & shrimp is always da best.... \u2661", "labels": [{"aspect": "baby back ribs & shrimp", "polarity": "positive"}]}
+{"text": "If you're in lewiston,ME,you cant deny yourself the best atmosphere and the friendliest service you will ever find at a restaurant.", "labels": [{"aspect": "atmosphere", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Sweet & Chilli chicken!!!", "labels": [{"aspect": "Sweet & Chilli chicken", "polarity": "positive"}]}
+{"text": "Absolutely the best little coffee shop around... one of everything... mix your own flavors of coffee beans,...", "labels": [{"aspect": "coffee shop", "polarity": "positive"}, {"aspect": "flavors of coffee beans", "polarity": "positive"}]}
+{"text": "One of my fav burger joint.", "labels": [{"aspect": "burger joint", "polarity": "positive"}]}
+{"text": "If u love classic you get The Shack and their signature frieds.", "labels": [{"aspect": "signature frieds", "polarity": "positive"}, {"aspect": "Shack", "polarity": "positive"}]}
+{"text": "Try Por Pia Thod n' Tod Mun Pla or Goong", "labels": [{"aspect": "Por Pia Thod", "polarity": "positive"}, {"aspect": "Tod Mun Pla", "polarity": "positive"}, {"aspect": "Goong", "polarity": "positive"}]}
+{"text": "Sunday brunch is awesome", "labels": [{"aspect": "brunch", "polarity": "positive"}]}
+{"text": "Call ahead to get a Hot-N-Ready pizza!", "labels": [{"aspect": "Hot-N-Ready pizza", "polarity": "positive"}]}
+{"text": "Love all Cuban food, here the best menu item is the roast pork", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "roast pork", "polarity": "positive"}]}
+{"text": "Just amazing burgers!", "labels": [{"aspect": "burgers", "polarity": "positive"}]}
+{"text": "Order your favorite breakfast or brunch item on a weekend (I recommend the Nova on a Bagel) and do some people watching in Lake Worth.", "labels": [{"aspect": "Nova on a Bagel", "polarity": "positive"}]}
+{"text": "Request Jessica as your server, she's great!", "labels": [{"aspect": "Jessica", "polarity": "positive"}]}
+{"text": "Might be the best sandwich spot I've been to.", "labels": [{"aspect": "sandwich spot", "polarity": "positive"}]}
+{"text": "Food is awesome!", "labels": [{"aspect": "Food", "polarity": "positive"}]}
+{"text": "The Wait staff is cool and helpful.", "labels": [{"aspect": "Wait staff", "polarity": "positive"}]}
+{"text": "Really good live music!", "labels": [{"aspect": "live music", "polarity": "positive"}]}
+{"text": "Garlic bread-> heaven", "labels": [{"aspect": "Garlic bread", "polarity": "positive"}]}
+{"text": "This place gives Hot Doug's a run for it's money.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "I had a meal where the staff from the senior manger to junior team took care of me.", "labels": [{"aspect": "staff", "polarity": "positive"}, {"aspect": "senior manger", "polarity": "positive"}, {"aspect": "junior team", "polarity": "positive"}]}
+{"text": "Very satisfying customer service & good taste", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "taste", "polarity": "positive"}]}
+{"text": "the fries are good", "labels": [{"aspect": "fries", "polarity": "positive"}]}
+{"text": "Amazing dumplings.", "labels": [{"aspect": "dumplings", "polarity": "positive"}]}
+{"text": "But I somehow like the pan fried better.", "labels": [{"aspect": "pan", "polarity": "negative"}]}
+{"text": "The non-veg combo is also a good deal :D", "labels": [{"aspect": "non-veg combo", "polarity": "positive"}]}
+{"text": "Must try the steam fish, salted egg sotong, & pork hand!", "labels": [{"aspect": "steam fish", "polarity": "positive"}, {"aspect": "salted egg sotong", "polarity": "positive"}, {"aspect": "pork hand", "polarity": "positive"}]}
+{"text": "Love the banana foster and red velvet", "labels": [{"aspect": "banana foster and red velvet", "polarity": "positive"}]}
+{"text": "Mac and cheese is amazing and deceptively filling.", "labels": [{"aspect": "Mac and cheese", "polarity": "positive"}, {"aspect": "Mac and cheese", "polarity": "positive"}]}
+{"text": "Try a biscuit bomb for an app with a friend.", "labels": [{"aspect": "biscuit bomb", "polarity": "positive"}]}
+{"text": "The food is just excellent!", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "And cava too :)", "labels": [{"aspect": "cava", "polarity": "positive"}]}
+{"text": "Dont let the odd location scare you.", "labels": [{"aspect": "location", "polarity": "negative"}]}
+{"text": "Its a really great place", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Kashmir Restaurant on Penang Road reins supreme!", "labels": [{"aspect": "Kashmir Restaurant", "polarity": "positive"}]}
+{"text": "They have more tender and more fresh chicken!", "labels": [{"aspect": "chicken", "polarity": "positive"}]}
+{"text": "Fresher and tastier dal!", "labels": [{"aspect": "dal", "polarity": "positive"}]}
+{"text": "Better biryani!", "labels": [{"aspect": "biryani", "polarity": "positive"}]}
+{"text": "Fresher and softer naan - the naan here is cardboard", "labels": [{"aspect": "naan", "polarity": "positive"}]}
+{"text": "The mac and cheese isn't quite as good as at Mishkin's, but still a belter.", "labels": [{"aspect": "mac and cheese", "polarity": "positive"}]}
+{"text": "Ties for fav shawarma in town for me.", "labels": [{"aspect": "shawarma", "polarity": "positive"}]}
+{"text": "Try the vegetarian and delicious Sam Sandwich, I'm not even vegetarian and I love it.", "labels": [{"aspect": "Sam Sandwich", "polarity": "positive"}]}
+{"text": "Lamb is also amazing, not on the menu so you have to ask.", "labels": [{"aspect": "Lamb", "polarity": "positive"}]}
+{"text": "This place rocks.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Dan is by far the best ever.", "labels": [{"aspect": "Dan", "polarity": "positive"}]}
+{"text": "Thanks Dan, you rock!", "labels": [{"aspect": "Dan", "polarity": "positive"}]}
+{"text": "Love the small, intimate setting here.", "labels": [{"aspect": "setting", "polarity": "positive"}]}
+{"text": "Yummy and sexy food :D", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}]}
+{"text": "Eric's best.", "labels": [{"aspect": "Eric", "polarity": "positive"}]}
+{"text": "Great ad amazing food from over 38 different country cuisines!!", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}]}
+{"text": "Great drinks and great Ramen !", "labels": [{"aspect": "drinks", "polarity": "positive"}, {"aspect": "Ramen", "polarity": "positive"}]}
+{"text": "But beware, the Ramen portions are HUGE.", "labels": [{"aspect": "Ramen", "polarity": "neutral"}]}
+{"text": "Always order Breakfast here.", "labels": [{"aspect": "Breakfast", "polarity": "positive"}]}
+{"text": "House sauce is amazing with the beer battered fish taco.", "labels": [{"aspect": "House sauce", "polarity": "positive"}, {"aspect": "beer battered fish taco", "polarity": "positive"}]}
+{"text": "Drew is the best bartender in the BAR!!!", "labels": [{"aspect": "Drew", "polarity": "positive"}]}
+{"text": "Unlock the special and get the free Quesadilla.", "labels": [{"aspect": "Quesadilla", "polarity": "positive"}]}
+{"text": "OMG go for the Oreo milkshake.", "labels": [{"aspect": "Oreo milkshake", "polarity": "positive"}]}
+{"text": "Dim Sum Menu is awesome.", "labels": [{"aspect": "Dim Sum Menu", "polarity": "positive"}]}
+{"text": "Get the taro \"footballs\" the sio pao (steamed bbq pork buns) and the pan fried noodles.", "labels": [{"aspect": "taro \"footballs\"", "polarity": "positive"}, {"aspect": "sio pao (steamed bbq pork buns)", "polarity": "positive"}, {"aspect": "pan fried noodles", "polarity": "positive"}]}
+{"text": "Pork chop with spicy salt is awesome.", "labels": [{"aspect": "Pork chop with spicy salt", "polarity": "positive"}]}
+{"text": "Incredible breakfast.", "labels": [{"aspect": "breakfast", "polarity": "positive"}]}
+{"text": "The cornbread with maple syrup rocks.", "labels": [{"aspect": "cornbread with maple syrup", "polarity": "positive"}]}
+{"text": "A must try: lobster nachos.", "labels": [{"aspect": "lobster nachos", "polarity": "positive"}]}
+{"text": "The new owners are awesome!", "labels": [{"aspect": "owners", "polarity": "positive"}]}
+{"text": "good coffee", "labels": [{"aspect": "coffee", "polarity": "positive"}]}
+{"text": "Recommendable; \u201cTarama\u201d (salted fist roe), sour marinated seabass and pickled tunny.", "labels": [{"aspect": "\u201cTarama\u201d (salted fist roe)", "polarity": "positive"}, {"aspect": "sour marinated seabass", "polarity": "positive"}, {"aspect": "pickled tunny", "polarity": "positive"}]}
+{"text": "must try apple pie!!! wifi pass:lifestyle", "labels": [{"aspect": "apple pie", "polarity": "positive"}]}
+{"text": "chocolate covered strawberries <3", "labels": [{"aspect": "chocolate covered strawberries", "polarity": "positive"}]}
+{"text": "Try the vinsetta burger.", "labels": [{"aspect": "vinsetta burger", "polarity": "positive"}]}
+{"text": "A good selection of food, and fast on bringing out new when the pans are empty.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "However, avoid the restroom!!!", "labels": [{"aspect": "restroom", "polarity": "negative"}]}
+{"text": "Salmon Bennie was quite good.", "labels": [{"aspect": "Salmon Bennie", "polarity": "positive"}]}
+{"text": "I come back often for the burger or skirt sandwich.", "labels": [{"aspect": "burger", "polarity": "positive"}, {"aspect": "skirt sandwich", "polarity": "positive"}]}
+{"text": "Great selection of juices and teas.", "labels": [{"aspect": "juices", "polarity": "positive"}, {"aspect": "teas", "polarity": "positive"}]}
+{"text": "Try the Ethiopian Yirga.", "labels": [{"aspect": "Ethiopian Yirga", "polarity": "positive"}]}
+{"text": "Get the Pu Pu app platter!", "labels": [{"aspect": "Pu Pu app platter", "polarity": "positive"}]}
+{"text": "Bo Bo Chicken is amazing, also!", "labels": [{"aspect": "Bo Bo Chicken", "polarity": "positive"}]}
+{"text": "appetizer - wood-grilled octopus", "labels": [{"aspect": "appetizer - wood-grilled octopus", "polarity": "positive"}]}
+{"text": "My all time favorite Mexican restaurant ever.", "labels": [{"aspect": "restaurant", "polarity": "positive"}]}
+{"text": "Mmmm, speculoos mc flurry", "labels": [{"aspect": "speculoos mc flurry", "polarity": "positive"}]}
+{"text": "Make sure you grab a whole wheat pita, fresh, free and delicious!", "labels": [{"aspect": "whole wheat pita", "polarity": "positive"}, {"aspect": "whole wheat pita", "polarity": "positive"}]}
+{"text": "This curry mee.", "labels": [{"aspect": "curry mee", "polarity": "negative"}]}
+{"text": "I order big size.. when the time it come.. so SMALL portion and it cost rm4.30.. taste bad too...", "labels": [{"aspect": "portion", "polarity": "negative"}]}
+{"text": "Best sandwich shop in Downtown Dallas... and the high-tech beverage dispenser here always provides mid-day entertainment!", "labels": [{"aspect": "sandwich shop", "polarity": "positive"}, {"aspect": "beverage dispenser", "polarity": "positive"}]}
+{"text": "The burgers are served on sourdough bread - and you should eat one!", "labels": [{"aspect": "burgers", "polarity": "positive"}]}
+{"text": "Just saw the semifreddo go out.", "labels": [{"aspect": "semifreddo", "polarity": "positive"}]}
+{"text": "Rabarb cream brulee with rabarb sorbet is perfect!", "labels": [{"aspect": "Rabarb cream brulee with rabarb sorbet", "polarity": "positive"}]}
+{"text": "Get the kid's breakfast with the choice of whichever egg from the menu.", "labels": [{"aspect": "breakfast", "polarity": "positive"}]}
+{"text": "The Armani Martini is really good.", "labels": [{"aspect": "Armani Martini", "polarity": "positive"}]}
+{"text": "For dessert, the tiramisu is one of the best around.", "labels": [{"aspect": "tiramisu", "polarity": "positive"}]}
+{"text": "On Thursdays, come for the amazing free aperitivos during Happy Hour.", "labels": [{"aspect": "aperitivos", "polarity": "positive"}, {"aspect": "aperitivos", "polarity": "positive"}]}
+{"text": "Thai Iced Tea and potstickers were meh, but four entrees we got were AMAZING.", "labels": [{"aspect": "Thai Iced Tea", "polarity": "neutral"}, {"aspect": "potstickers", "polarity": "neutral"}, {"aspect": "entrees", "polarity": "positive"}]}
+{"text": "Best (and most unique) Thai I've had in a long time.", "labels": [{"aspect": "Thai", "polarity": "positive"}]}
+{"text": "Horrible service.", "labels": [{"aspect": "service", "polarity": "negative"}]}
+{"text": "Great place for a reasonably priced steak dinner in Vegas, service is always impeccable.", "labels": [{"aspect": "place", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Try the Roasted Pear Salad - With obviously a lot of nuts", "labels": [{"aspect": "Roasted Pear Salad", "polarity": "positive"}]}
+{"text": "Food was acceptable.", "labels": [{"aspect": "Food", "polarity": "neutral"}]}
+{"text": "Chicken curry is not good.", "labels": [{"aspect": "Chicken curry", "polarity": "negative"}]}
+{"text": "Buffalo Medium wings have nice kick and great flavor", "labels": [{"aspect": "Buffalo Medium wings", "polarity": "positive"}]}
+{"text": "Fantastic Italian bistro on the waterfront, delicious food, excellent service, beautiful view and a friendly staff!", "labels": [{"aspect": "bistro", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}, {"aspect": "view", "polarity": "positive"}, {"aspect": "staff", "polarity": "positive"}]}
+{"text": "Great food if you have never tried it and delivery starting soon.", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "New staff, not very generous with the toppings, and not very quick...", "labels": [{"aspect": "staff", "polarity": "negative"}]}
+{"text": "Hope you get the senior staff!", "labels": [{"aspect": "senior staff", "polarity": "positive"}]}
+{"text": "Get the biscuits & gravy.", "labels": [{"aspect": "biscuits & gravy", "polarity": "positive"}]}
+{"text": "Choco Banana crepe ($50) is to die for!", "labels": [{"aspect": "Choco Banana crepe", "polarity": "positive"}]}
+{"text": "So much brownie and Nutella!", "labels": [{"aspect": "brownie", "polarity": "positive"}, {"aspect": "Nutella", "polarity": "positive"}]}
+{"text": "Terribly rude manager.", "labels": [{"aspect": "manager", "polarity": "negative"}]}
+{"text": "Mid level food, ordinary place, nothing special.", "labels": [{"aspect": "food", "polarity": "neutral"}, {"aspect": "place", "polarity": "neutral"}]}
+{"text": "Beat authentic taco truck on the Westside.", "labels": [{"aspect": "taco truck", "polarity": "positive"}]}
+{"text": "You can't go wrong with their al pastor tacos.", "labels": [{"aspect": "al pastor tacos", "polarity": "positive"}]}
+{"text": "Top with their homemade cucumber/onion/jalape\u00f1o mixture for a fresh kick!", "labels": [{"aspect": "cucumber/onion/jalape\u00f1o mixture", "polarity": "positive"}]}
+{"text": "Don't forget to order creme brulee as a dessert", "labels": [{"aspect": "creme brulee", "polarity": "positive"}]}
+{"text": "Love the chicken and dumplings!", "labels": [{"aspect": "chicken", "polarity": "positive"}]}
+{"text": "Excellent service here!", "labels": [{"aspect": "service", "polarity": "positive"}]}
+{"text": "The Tokyo Fog with tapioca and soy was great!", "labels": [{"aspect": "Tokyo Fog with tapioca and soy", "polarity": "positive"}]}
+{"text": "Lobster bisque was excellent", "labels": [{"aspect": "Lobster bisque", "polarity": "positive"}]}
+{"text": "The chai milkshakes are phenomenal!", "labels": [{"aspect": "chai milkshakes", "polarity": "positive"}]}
+{"text": "Try the pljeskavica sandwich.", "labels": [{"aspect": "pljeskavica sandwich", "polarity": "positive"}]}
+{"text": "It's a monstrous cross between a gyro and a hamburger.", "labels": [{"aspect": "cross between a gyro and a hamburger", "polarity": "positive"}]}
+{"text": "Don't waste your time (or $$$) on the salads or sandwich.", "labels": [{"aspect": "salads", "polarity": "negative"}, {"aspect": "sandwich", "polarity": "negative"}]}
+{"text": "Stick with the lobster roll and lobster mac & cheese and you won't be disappointed.", "labels": [{"aspect": "lobster roll", "polarity": "positive"}, {"aspect": "lobster mac & cheese", "polarity": "positive"}]}
+{"text": "Watch out for overuse of tarragon though....shudder.", "labels": [{"aspect": "tarragon", "polarity": "negative"}]}
+{"text": "You gotta try the cheese cake!", "labels": [{"aspect": "cheese cake", "polarity": "positive"}]}
+{"text": "Flores is the best.", "labels": [{"aspect": "Flores", "polarity": "positive"}]}
+{"text": "can't tell the difference between the new homestyle fries as opposed to the old fries other than the new ones have a little bit of skin on them. still have to drown them in sauce to make them bearable", "labels": [{"aspect": "homestyle fries", "polarity": "negative"}]}
+{"text": "Bang bang shrimp is the best shrimp ever!", "labels": [{"aspect": "Bang bang shrimp", "polarity": "positive"}]}
+{"text": "Best salmon sashimi in town.", "labels": [{"aspect": "salmon sashimi", "polarity": "positive"}]}
+{"text": "The food is ok but the service here sucked.", "labels": [{"aspect": "food", "polarity": "neutral"}, {"aspect": "service", "polarity": "negative"}]}
+{"text": "After taking my order we never saw the waiter.", "labels": [{"aspect": "waiter", "polarity": "negative"}]}
+{"text": "Best Dunkin' Donuts around!", "labels": [{"aspect": "Dunkin' Donuts", "polarity": "positive"}]}
+{"text": "We will always drive further to this one than the one by our home from now on, just because of the great service from a guy named ADAM that was awesome to us!!!!", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "ADAM", "polarity": "positive"}]}
+{"text": "Great food great service", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "I stopped by here with my wife and kids and we loved the chicken salad!", "labels": [{"aspect": "chicken salad", "polarity": "positive"}]}
+{"text": "The mushrooms are delicious!!!", "labels": [{"aspect": "mushrooms", "polarity": "positive"}]}
+{"text": "For a healthy lunch get the grilled chickens salad with BBQ sauce, ranch and bread.", "labels": [{"aspect": "grilled chickens salad with BBQ sauce, ranch and bread", "polarity": "positive"}]}
+{"text": "It's a really authentic Dim Sum Restaurant.", "labels": [{"aspect": "Dim Sum Restaurant", "polarity": "positive"}]}
+{"text": "Good service + a nice boss that would explain the food to you whenever you have a question.", "labels": [{"aspect": "service", "polarity": "positive"}, {"aspect": "boss", "polarity": "positive"}]}
+{"text": "It's tiny inside but it's also all about quality + not quantity.", "labels": [{"aspect": "quality", "polarity": "positive"}, {"aspect": "quantity", "polarity": "neutral"}]}
+{"text": "LOVE THE MINI!! ....come to gahanna :D", "labels": [{"aspect": "gahanna", "polarity": "positive"}, {"aspect": "MINI", "polarity": "positive"}]}
+{"text": "Get the Cortado.", "labels": [{"aspect": "Cortado", "polarity": "positive"}]}
+{"text": "The most perfect amount of milk and espresso with a heart on top.", "labels": [{"aspect": "milk and espresso", "polarity": "positive"}]}
+{"text": "Food is wonderful, but the service can be much better.", "labels": [{"aspect": "Food", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Adult milkshakes are worth the calories.", "labels": [{"aspect": "milkshakes", "polarity": "positive"}]}
+{"text": "Very nice and quite place ;)", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Don't let the name fool ya, they've got kickin catfish and fried pickles too, not many are aware of this tidbit.", "labels": [{"aspect": "catfish", "polarity": "positive"}, {"aspect": "fried pickles", "polarity": "positive"}]}
+{"text": "So many foods here.!!", "labels": [{"aspect": "foods", "polarity": "positive"}]}
+{"text": "Come and chill at PakNgah CAFE (\",)", "labels": [{"aspect": "PakNgah CAFE", "polarity": "positive"}]}
+{"text": "Their Chocolate Chip tastes awesome.", "labels": [{"aspect": "Chocolate Chip", "polarity": "positive"}]}
+{"text": "The garlic fries are awesome!!", "labels": [{"aspect": "garlic fries", "polarity": "positive"}]}
+{"text": "Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage", "labels": [{"aspect": "BBQ", "polarity": "positive"}, {"aspect": "brisket", "polarity": "positive"}, {"aspect": "ribs", "polarity": "positive"}, {"aspect": "pulled pork", "polarity": "positive"}, {"aspect": "chicken", "polarity": "positive"}, {"aspect": "fried chicken", "polarity": "positive"}, {"aspect": "sausage", "polarity": "positive"}]}
+{"text": "Sandwiches and pecan pies are the bomb.", "labels": [{"aspect": "Sandwiches", "polarity": "positive"}, {"aspect": "pecan pies", "polarity": "positive"}]}
+{"text": "Try the Ryne Sandburger!", "labels": [{"aspect": "Ryne Sandburger", "polarity": "positive"}]}
+{"text": "It's the place to meet if you're part of the Metro San Mateo tech entreprenuerial community!", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Must try the crispy duck!", "labels": [{"aspect": "crispy duck", "polarity": "positive"}]}
+{"text": "Sweet potato and sage dumplings are the stuff of dreams.", "labels": [{"aspect": "Sweet potato", "polarity": "positive"}, {"aspect": "sage dumplings", "polarity": "positive"}]}
+{"text": "The staff is amazing, and it's a must to have a Sexy girl!! ;) don't leave without her :p", "labels": [{"aspect": "staff", "polarity": "positive"}]}
+{"text": "Fav combo would be Tom Yum maggi double with prawns, foo chok + fried fish!", "labels": [{"aspect": "Tom Yum maggi double with prawns", "polarity": "positive"}, {"aspect": "foo chok", "polarity": "positive"}, {"aspect": "fried fish", "polarity": "positive"}]}
+{"text": "Make sure ask for extra soup, extra spicy n extra sour! :ppp", "labels": [{"aspect": "extra soup", "polarity": "positive"}, {"aspect": "extra spicy", "polarity": "positive"}, {"aspect": "extra sour", "polarity": "positive"}]}
+{"text": "Peanut butermoo'd!", "labels": [{"aspect": "Peanut butermoo'd", "polarity": "positive"}]}
+{"text": "Great place for a meeting.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Sit by the warm fire.", "labels": [{"aspect": "fire", "polarity": "positive"}]}
+{"text": "Live Music Every Saturday Night 10-1am!!", "labels": [{"aspect": "Live Music", "polarity": "positive"}]}
+{"text": "The tiramisu is fantastic.", "labels": [{"aspect": "tiramisu", "polarity": "positive"}]}
+{"text": "My favorite has to be the four veg plate - pintos, fried okra, carrots, and apples...with cornbread of course!", "labels": [{"aspect": "four veg plate", "polarity": "positive"}]}
+{"text": "The management is the worst i've ever had to deal with.", "labels": [{"aspect": "management", "polarity": "negative"}]}
+{"text": "YUM!!!!! this pizza is delicious!!!", "labels": [{"aspect": "pizza", "polarity": "positive"}]}
+{"text": "They use moldy bread becareful my sandwich had mold on it nasty", "labels": [{"aspect": "sandwich", "polarity": "negative"}]}
+{"text": "Great food and cheap, awesome atmosphere", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "atmosphere", "polarity": "positive"}, {"aspect": "food", "polarity": "positive"}]}
+{"text": "Everything on the menu is heaven on your taste buds!", "labels": [{"aspect": "menu", "polarity": "positive"}]}
+{"text": "I crave their food!", "labels": [{"aspect": "food", "polarity": "positive"}]}
+{"text": "Veggie burrito with shrimp.", "labels": [{"aspect": "Veggie burrito with shrimp", "polarity": "positive"}]}
+{"text": "Really very nice an quiet place with beatiful waitress.", "labels": [{"aspect": "place", "polarity": "positive"}, {"aspect": "place", "polarity": "positive"}, {"aspect": "waitress", "polarity": "positive"}]}
+{"text": "I strongly recommend to visit this tearoom ;-)", "labels": [{"aspect": "tearoom", "polarity": "positive"}]}
+{"text": "Good food, service was extremely accommodating, they get an A+ for that!", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "service", "polarity": "positive"}]}
+{"text": "Fort Wayne's best micro-brew.", "labels": [{"aspect": "Fort Wayne's", "polarity": "positive"}]}
+{"text": "Grab a booth along the windows & watch traffic as you sip a flight of their beers and munch on a Politician pizza, or Jambalaya Flatbread, a personal favorite of mine.", "labels": [{"aspect": "windows", "polarity": "positive"}, {"aspect": "beers", "polarity": "positive"}, {"aspect": "Politician pizza", "polarity": "positive"}, {"aspect": "Jambalaya Flatbread", "polarity": "positive"}]}
+{"text": "This place is awesome.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Has everything you could want for Mexican cuisine.", "labels": [{"aspect": "cuisine", "polarity": "positive"}]}
+{"text": "Great place before and after work.", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Nice ambiance! :smiling_face:", "labels": [{"aspect": "ambiance", "polarity": "positive"}]}
+{"text": "Vegetable pad Thai is the best!", "labels": [{"aspect": "Vegetable pad Thai", "polarity": "positive"}]}
+{"text": "Along with the Sapota drink...YUM", "labels": [{"aspect": "Sapota drink", "polarity": "positive"}]}
+{"text": "Best place to eat in Wimberley!!!", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Crab stuffed artichoke hearts.", "labels": [{"aspect": "Crab stuffed artichoke hearts", "polarity": "positive"}]}
+{"text": "Good stuff", "labels": [{"aspect": "stuff", "polarity": "positive"}]}
+{"text": "Probably the best Starbucks in this state", "labels": [{"aspect": "Starbucks", "polarity": "positive"}]}
+{"text": "We also get birthday complementary dessert. the sandwich club & green tea is nice, raspberry smoothies is delish and blueberry cheese cake is a must try", "labels": [{"aspect": "sandwich club", "polarity": "positive"}, {"aspect": "green tea", "polarity": "positive"}, {"aspect": "raspberry smoothies", "polarity": "positive"}, {"aspect": "blueberry cheese cake", "polarity": "positive"}]}
+{"text": "The crab rice is not very tasty.", "labels": [{"aspect": "crab rice", "polarity": "negative"}]}
+{"text": "Just basically rice n crab.however, the clams wi thai lemon sauce is great.", "labels": [{"aspect": "clams wi thai lemon sauce", "polarity": "positive"}]}
+{"text": "The grape prawns are not too bad but I think they are not fresh enough.", "labels": [{"aspect": "grape prawns", "polarity": "negative"}]}
+{"text": "Best salsa everrr, on good days though lol", "labels": [{"aspect": "salsa", "polarity": "positive"}]}
+{"text": "Nice cup of tea Fab-u-lous ;-)", "labels": [{"aspect": "tea", "polarity": "positive"}]}
+{"text": "You won't find a better breakfast biscuit anywhere.", "labels": [{"aspect": "breakfast biscuit", "polarity": "positive"}]}
+{"text": "We detour just for the country fried steak biscuits.", "labels": [{"aspect": "fried steak biscuits", "polarity": "positive"}]}
+{"text": "Best cheeseburger in town - try to get a table upstairs", "labels": [{"aspect": "cheeseburger", "polarity": "positive"}]}
+{"text": "Try the Malay nasi lemak stall very addictive", "labels": [{"aspect": "Malay nasi lemak stall", "polarity": "positive"}]}
+{"text": "Chicken wings are awesome!!!", "labels": [{"aspect": "Chicken wings", "polarity": "positive"}]}
+{"text": "The service is very bad, stuff is rude and impolite, very high gratuity!!!??", "labels": [{"aspect": "service", "polarity": "negative"}, {"aspect": "stuff", "polarity": "negative"}]}
+{"text": "Try the pork ribs :)", "labels": [{"aspect": "pork ribs", "polarity": "positive"}]}
+{"text": "Burger was cooked to PERFECTION.", "labels": [{"aspect": "Burger", "polarity": "positive"}]}
+{"text": "And the homemade knish is incredible!", "labels": [{"aspect": "knish", "polarity": "positive"}]}
+{"text": "Really good sushi.", "labels": [{"aspect": "sushi", "polarity": "positive"}]}
+{"text": "I don't normally like big burgers and it's not a cheap burger, but this is truly one of the best burgers I've had.", "labels": [{"aspect": "burgers", "polarity": "positive"}]}
+{"text": "Go with the plate instead of the sandwich to get delicious vinegary potatoes with your meal", "labels": [{"aspect": "plate", "polarity": "positive"}, {"aspect": "vinegary potatoes", "polarity": "positive"}]}
+{"text": "Their chai latte is heavenly.", "labels": [{"aspect": "chai latte", "polarity": "positive"}]}
+{"text": "Very disappointed with the quality of ingredients and the portions, pricy food with no exceptional service.", "labels": [{"aspect": "ingredients", "polarity": "negative"}, {"aspect": "portions", "polarity": "negative"}, {"aspect": "food", "polarity": "negative"}, {"aspect": "service", "polarity": "neutral"}]}
+{"text": "Porter is a cool guy to hang with.", "labels": [{"aspect": "Porter", "polarity": "positive"}]}
+{"text": "Chocolate chip pancakes were extremely luxurious, i'd like to have seen some more chocolate but maybe I'm greedy.Omelette was fluffy & very tasty.", "labels": [{"aspect": "Chocolate chip pancakes", "polarity": "positive"}, {"aspect": "Omelette", "polarity": "positive"}]}
+{"text": "Hash browns were crispy outside creamy inside 10/10", "labels": [{"aspect": "Hash browns", "polarity": "positive"}]}
+{"text": "Classic Indianapolis donuts, hard to beat them all the way across the board, though I do love Harts", "labels": [{"aspect": "donuts", "polarity": "positive"}]}
+{"text": "Super great tuna & cucumber panini.", "labels": [{"aspect": "tuna & cucumber panini", "polarity": "positive"}]}
+{"text": "I like how tune is not hot while the panini is hot", "labels": [{"aspect": "tune", "polarity": "positive"}, {"aspect": "panini", "polarity": "positive"}]}
+{"text": "This CCD has one of the best locations in Bombay..", "labels": [{"aspect": "locations", "polarity": "positive"}]}
+{"text": "Try \"Kateifi\", you won't regret it!", "labels": [{"aspect": "Kateifi", "polarity": "positive"}]}
+{"text": "Muffins are so amaziiiiing! especially blueberry", "labels": [{"aspect": "Muffins", "polarity": "positive"}, {"aspect": "blueberry", "polarity": "positive"}]}
+{"text": "Try penne carbonara here...", "labels": [{"aspect": "penne carbonara", "polarity": "positive"}]}
+{"text": "The Captain on the 4th floor has a very poor sense of humor!", "labels": [{"aspect": "Captain", "polarity": "negative"}]}
+{"text": "Very good store, great selection of Russian candy, pelmeni are very high quality.", "labels": [{"aspect": "selection of Russian candy", "polarity": "positive"}, {"aspect": "pelmeni", "polarity": "positive"}]}
+{"text": "BBQ (smoked beef and slow roasted pork) is amazing and order several sides such as the yuca, fried plantains, and cornbread", "labels": [{"aspect": "BBQ (smoked beef and slow roasted pork)", "polarity": "positive"}, {"aspect": "yuca", "polarity": "positive"}, {"aspect": "fried plantains", "polarity": "positive"}, {"aspect": "cornbread", "polarity": "positive"}]}
+{"text": "Went here specifically for cheese omelette after reading so many 4sq reviews which was light & good.", "labels": [{"aspect": "cheese omelette", "polarity": "positive"}]}
+{"text": "A favourite place for a quick nibble", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Great neighborhood place that supports Teller Elementary!", "labels": [{"aspect": "place", "polarity": "positive"}]}
+{"text": "Try the dark mocha iced coffee.", "labels": [{"aspect": "dark mocha iced coffee", "polarity": "positive"}]}
+{"text": "50 cents per wing!", "labels": [{"aspect": "wing", "polarity": "positive"}]}
+{"text": "Iove beer here, good for chilling out with friends", "labels": [{"aspect": "beer", "polarity": "positive"}]}
+{"text": "Excellent black tea *thumbs up*", "labels": [{"aspect": "black tea", "polarity": "positive"}]}
+{"text": "Thank heaven for 7-eleven.", "labels": [{"aspect": "7-eleven", "polarity": "positive"}]}
+{"text": "And aren't the managers and staff amazing :).", "labels": [{"aspect": "managers", "polarity": "positive"}, {"aspect": "staff", "polarity": "positive"}]}
+{"text": "Order for their pancakes.", "labels": [{"aspect": "pancakes", "polarity": "positive"}]}
+{"text": "Forget about the rest in the menu *yawn*", "labels": [{"aspect": "menu", "polarity": "negative"}]}
+{"text": "Come here for the chicken shwarma.", "labels": [{"aspect": "chicken shwarma", "polarity": "positive"}]}
+{"text": "Were a lot of noodles and just 5 little shrimps :/ Went out completely hungry.", "labels": [{"aspect": "noodles", "polarity": "negative"}, {"aspect": "shrimps", "polarity": "negative"}]}
+{"text": "Good food, drinks, entertainment, & prices!!!", "labels": [{"aspect": "food", "polarity": "positive"}, {"aspect": "drinks", "polarity": "positive"}, {"aspect": "entertainment", "polarity": "positive"}]}

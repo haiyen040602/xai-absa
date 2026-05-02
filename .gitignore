@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Môi trường ảo
+.env
+.venv
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model / tokenizer artifacts (nặng, không push)
+*.pth
+*.bin
+*.safetensors
+FINE_TUNED_MODEL_*/
+tokenizer_*/
+vocab.pkl
+
+# Kaggle working outputs
+/kaggle/working/
+
+# Ảnh output (sinh tự động khi chạy)
+Images/
+
+# HuggingFace cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
