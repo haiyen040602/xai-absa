@@ -1,0 +1,7 @@
+dataset,polarity,count
+MAMA_SEMEVAL,negative,9261
+MAMA_SEMEVAL,neutral,7097
+MAMA_SEMEVAL,positive,14455
+NAVER,negative,108
+NAVER,neutral,15
+NAVER,positive,758

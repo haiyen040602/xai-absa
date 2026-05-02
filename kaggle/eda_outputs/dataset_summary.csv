@@ -1,0 +1,3 @@
+dataset,num_records,num_text_rows,num_labeled_pairs,num_unique_aspects,avg_labels_per_record
+main,16127,16127,30813,7514,1.9106467414894277
+naver,642,642,881,606,1.3722741433021808
