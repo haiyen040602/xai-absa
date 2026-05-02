@@ -10,7 +10,7 @@ from collections import Counter
 from dataclasses import dataclass
 from typing import Dict, List, Sequence, Tuple
 
-import jsonlines
+import json
 import numpy as np
 import torch
 import torch.nn as nn
@@ -182,8 +182,12 @@ def resolve_dataset_path(user_path: str) -> str:
 
 def load_examples(dataset_path: str) -> List[Example]:
     examples: List[Example] = []
-    with jsonlines.open(dataset_path) as reader:
-        for row in reader:
+    with open(dataset_path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            row = json.loads(line)
             sentence = row["text"]
             for item in row["labels"]:
                 aspect = item["aspect"]
